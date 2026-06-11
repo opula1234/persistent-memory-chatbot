@@ -11,4 +11,5 @@ dependencies = [
     "nest-asyncio>=1.6.0",
     "pydantic>=2.13.4",
     "sqlmodel>=0.0.38",
+    "uvicorn>=0.49.0",
 ]
